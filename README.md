@@ -1,7 +1,7 @@
 # LSTM-Views-Prediction
 This repository contains a machine learning model built to forecast the number of views for TikTok's biggest influencers over the next 30 days. The model employs Long Short-Term Memory (LSTM) neural networks, a powerful architecture for sequence prediction, to capture temporal dependencies and predict aggregated daily views.
 
-Contents:
+**Contents:**
 Data Collection and Preprocessing:
 
 Raw data includes influencer details such as ID, category, views, likes, and followers.
@@ -19,7 +19,7 @@ Evaluation and Performance Metrics:
 The model's performance is evaluated using Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) on both training and test sets.
 The Metric results suggest good generalization to the test set. 
 
-Forecasting Future Views:
+**Forecasting Future Views:**
 
 The model provides a forecast for the total number of views in the next 30 days, aiding in cloud computing cost planning.
 Limitations:
