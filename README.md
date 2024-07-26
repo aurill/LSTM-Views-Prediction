@@ -4,6 +4,8 @@ This repository contains a machine learning model built to forecast the number o
 ## **Overview**
 This repository houses a machine learning model designed to forecast the future views of TikTok's biggest influencers using Long Short-Term Memory (LSTM) neural networks. The model aims to predict aggregated daily views for the next 30 days, providing valuable insights for effective cloud computing cost planning.
 
+This is crucial so that TikTok can plan for cloud computing costs (more users more processing power needed). Therefore they need to know now before our systems crash. How can this be done.
+
 ## **Table of Contents**
 
 - Background
